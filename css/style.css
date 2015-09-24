@@ -1,0 +1,30 @@
+body {
+  background-image: url("http://gdurl.com/7UjK");
+}
+body .container {
+  padding-top: 1em;
+}
+body .container main h1 {
+  font-size: 4em;
+  font-family: "Pacifico", cursive;
+  padding-bottom: .5em;
+}
+body .container section {
+  font-family: "Quicksand", sans-serif;
+  color: white;
+}
+body .container section div .ptext {
+  padding-bottom: .5em;
+}
+body .container section .Quotes {
+  font-family: "Quicksand", sans-serif;
+  color: sky-blue;
+  font-size: 2em;
+}
+body .container section .nextQuote {
+  padding-top: 1em;
+}
+body .container section .nextQuote button {
+  font-family: "Quicksand", sans-serif;
+  padding: 10px 40px;
+}

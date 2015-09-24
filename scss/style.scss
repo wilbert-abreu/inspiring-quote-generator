@@ -1,0 +1,48 @@
+$font-title:    'Pacifico', cursive;
+$font-rest:    'Quicksand', sans-serif;
+
+body 
+{
+  background-image: url("http://gdurl.com/7UjK");
+  .container 
+  {
+    padding-top: 1em;
+    main
+    {
+      h1 
+      {
+        font-size: 4em;
+        font-family: $font-title;
+        padding-bottom: .5em;
+      }
+    }
+    section
+    {
+      font-family: $font-rest;
+      color: white;
+      div 
+      {
+        .ptext 
+        {
+           padding-bottom: .5em;
+        } 
+      }
+      .Quotes
+      {
+        font-family: $font-rest;
+        color: sky-blue;
+        
+        font-size: 2em;
+      }
+      .nextQuote 
+      {
+          padding-top: 1em;
+        button {
+          font-family: $font-rest;
+          padding: 10px 40px
+        }
+      }
+    }
+  }
+}  
+  
