@@ -1,3 +1,7 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/wilbert-abreu/pen/wKWXQj.
+Inspiring Quote Generator
+
+Made with scss and bootstrap
+
+Preview: https://wilbert-abreu.github.io/inspiring-quote-generator
 
  
