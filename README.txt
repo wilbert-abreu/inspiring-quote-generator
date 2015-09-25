@@ -1,6 +1,5 @@
-#Inspiring Quote Generator
+Inspiring Quote Generator
+
 Made with scss and bootstrap
 
-Preview [https://wilbert-abreu.github.io/inspiring-quote-generator](https://wilbert-abreu.github.io/inspiring-quote-generator)
-
- 
+Preview: https://wilbert-abreu.github.io/inspiring-quote-generator
